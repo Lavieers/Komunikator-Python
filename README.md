@@ -34,6 +34,6 @@ Python 3.x oraz biblioteka `customtkinter`.
 
 
 ## Autorzy
-**Kinga Łopata
-**Amelia kucharz
-**Piotr Kula
+*Kinga Łopata
+*Amelia kucharz
+*Piotr Kula
